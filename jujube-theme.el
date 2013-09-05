@@ -3,7 +3,7 @@
 ;; Copyright (C) 2011-2013 Jonas Arnold Clasen
 
 ;; Author: Jonas Arnold Clasen <jonasac@student.matnat.uio.no>
-;; URL: http://github.com/jonasac/jejune-emacs
+;; URL: http://github.com/jonasac/jujube-emacs
 ;; Version: 0.1
 
 ;; This program is free software; you can redistribute it and/or modify
