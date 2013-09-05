@@ -56,6 +56,7 @@
    `(font-lock-warning-face ((t (:foreground ,jujube-red :bold t))))
    `(hl-line ((t ((:background ,jujube-fringe)))))))
 
+;;;###autoload
 (when load-file-name
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
