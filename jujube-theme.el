@@ -1,3 +1,5 @@
+;;; jujube-theme.el --- Pastel theme loosely based on jellybeans
+
 ;; Copyright (C) 2011-2013 Jonas Arnold Clasen
 
 ;; Author: Jonas Arnold Clasen <jonasac@student.matnat.uio.no>
