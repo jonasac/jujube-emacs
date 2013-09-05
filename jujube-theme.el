@@ -23,6 +23,7 @@
 ;; Loosely based on jellybeans theme for vim, if anyone knows who created that theme,
 ;; please let me know.
 
+(deftheme jujube "Jujube emacs24 theme")
 (let ((jujube-orange "#ffb964")
       (jujube-background "#151515")
       (jujube-cursor "#b0d0f0")
